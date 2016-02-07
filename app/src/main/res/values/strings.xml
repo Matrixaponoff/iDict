@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">iDict</string>
+    <string name="app_name">iDictionary</string>
+    <string name="title_activity_vocabulary_list">VocabularyList</string>
 </resources>
